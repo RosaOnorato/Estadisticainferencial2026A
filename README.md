@@ -1,1 +1,1 @@
-# Estad-sticainferencial2026A
+# Estadisticainferencial2026A
